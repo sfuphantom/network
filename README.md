@@ -1,3 +1,10 @@
+CAN-BMS-dev branch
+
+2024-03-16: Beginning of branch - code based on firmware/HV_VS_BMS branch where the printing to terminal via UART works
+
+
+----------
+
 # Network  
 A Network subteam repository for Team Phantom, which currently involves CAN and simulation development
 
